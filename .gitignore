@@ -1,0 +1,32 @@
+# Dependências do Node
+node_modules/
+ 
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistemas de construção
+dist/
+build/
+
+# Dados temporários ou sensíveis
+.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Cache
+.cache/
+.temp/
+
+# IDEs e editores
+.vscode/
+.idea/
+.DS_Store
+
+# Sistema operacional
+Thumbs.db
