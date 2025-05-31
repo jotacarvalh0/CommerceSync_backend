@@ -1,0 +1,12 @@
+# Ignore arquivos de build
+dist
+build
+node_modules
+
+# Ignore arquivos gerados
+*.lock
+coverage
+
+# Ignore arquivos específicos
+arquivo-nao-formatar.ts
+pasta-nao-formatar/*
