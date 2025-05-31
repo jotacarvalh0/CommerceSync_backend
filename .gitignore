@@ -30,3 +30,5 @@ build/
 
 # Sistema operacional
 Thumbs.db
+
+/generated/prisma
